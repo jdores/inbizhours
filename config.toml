@@ -13,7 +13,7 @@ editor = "nano"
 languageCode = "en"
 language = "en"
 theme = "vncnt-hugo"
-title = "During Biz hours"
+title = "Time to work"
 
 
 _merge = "none"
@@ -25,11 +25,11 @@ _merge = "none"
 
 
 [params]
-  author = "During Biz Hours"
+  author = "It is working time"
   # email does still work but is deprecated.
   # use [params.contact.email] instead.
   #email = "john.doe@example.com"
-  description = "During Biz hours"
+  description = "Time to work"
   bio = "This website can be accessed during business hours"
   avatar = "img/avatar.png"
   favicon = "img/favicon.png"
