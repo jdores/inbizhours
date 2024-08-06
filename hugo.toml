@@ -58,7 +58,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "JDores @Cloudflare"
+      logoText = "During Biz Hours"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -68,5 +68,5 @@ paginate = 5
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "hashtags"
-        name = "Tags & blog post list"
+        name = "Tags & posts"
         url = "/hashtags"
