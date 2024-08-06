@@ -13,7 +13,7 @@ editor = "nano"
 languageCode = "en"
 language = "en"
 theme = "vncnt-hugo"
-title = "Block page"
+title = "During Biz hours"
 
 
 _merge = "none"
