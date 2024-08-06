@@ -29,7 +29,7 @@ _merge = "none"
   # email does still work but is deprecated.
   # use [params.contact.email] instead.
   #email = "john.doe@example.com"
-  description = "Block page"
+  description = "During Biz hours"
   bio = "This website can be accessed during business hours"
   avatar = "img/avatar.png"
   favicon = "img/favicon.png"
